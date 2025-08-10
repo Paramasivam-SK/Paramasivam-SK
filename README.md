@@ -1,5 +1,4 @@
 <h1 >Hi 👋, I'm Paramasivam!</h1>
-
 <h3 >
 🎓 ECE student with strong team skills, quick learning ability, and a calm mindset under pressure.  
 Adaptable, organized, and always open to feedback.
